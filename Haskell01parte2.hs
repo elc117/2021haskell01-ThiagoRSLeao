@@ -35,4 +35,7 @@ calcAreas :: [Float] -> [Float]
 calcAreas intList = map circleArea intList
 
 charFound :: Char -> String -> Bool
-charFound = elem
+charFound c str = null (filter (== True) (map (\char -> char == c) str)) == False
+
+--charFound :: Char -> String -> Bool
+--charFound = elem
