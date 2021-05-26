@@ -1,6 +1,6 @@
 -- Prática 01 de Haskell - Parte 1
 -- Nome: Thiago Rodrigues Silva
-
+module Haskell01parte1 where
 -- a = primeiro valor, b = segundo valor
 sumSquares :: Int -> Int -> Int
 sumSquares a b = a^2 + b^2

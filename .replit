@@ -1,2 +1,2 @@
 language = "haskell"
-run = "ghci haskell01parte1"
+run = "ghci Haskell01parte3/svgSimple.hs"

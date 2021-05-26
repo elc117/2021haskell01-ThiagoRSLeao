@@ -1,0 +1,20 @@
+<svg width='500.00' height='500.00' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='120' cy='120' r='100'  style='stroke: #ccc500;stroke-width: 3;fill: rgb(255, 244, 84);' />
+<circle cx='80' cy='80' r='20'  style='stroke: #ccc500;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<circle cx='160' cy='80' r='20'  style='stroke: #ccc500;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<rect  x='70' y='140' width='100' height='20' style='stroke: #ccc500;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<circle cx='380' cy='120' r='100'  style='stroke: #29cc00;stroke-width: 3; fill: rgb(130, 255, 102);' />
+<circle cx='420' cy='80' r='20'  style='stroke: #29cc00;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<circle cx='340' cy='80' r='20'  style='stroke: #29cc00;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<path d='M 430 130 C 420 190 340 190 330 130' style='stroke: #29cc00; stroke-width: 4; fill: none;' />
+<circle cx='120' cy='380' r='100'  style='stroke: #bd0000;stroke-width: 3;fill: rgb(255, 99, 99);' />
+<circle cx='80' cy='340' r='20'  style='stroke: #bd0000;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<path d='M 70 310 L 110 340' style='stroke: #bd0000; stroke-width: 4; fill: none;' />
+<circle cx='160' cy='340' r='20'  style='stroke: #bd0000;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<path d='M 170 310 L 130 340' style='stroke: #bd0000; stroke-width: 4; fill: none;' />
+<path d='M 70 430 C 80 370 160 370 170 430' style='stroke: #bd0000; stroke-width: 4; fill: none;' />
+<circle cx='380' cy='380' r='100'  style='stroke: #001cbd;stroke-width: 3;fill: rgb(99, 146, 255);' />
+<circle cx='420' cy='340' r='20'  style='stroke: #001cbd;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<circle cx='340' cy='340' r='20'  style='stroke: #001cbd;stroke-width: 1;fill: rgb(255, 255, 255);' />
+<path d='M 430 430 C 420 370 340 370 330 430' style='stroke: #001cbd; stroke-width: 4; fill: none;' />
+</svg>
